@@ -9,7 +9,7 @@
 
 
 
-<p align="center">
+<p  align="right">
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   </p>
 
