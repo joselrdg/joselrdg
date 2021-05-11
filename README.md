@@ -17,6 +17,9 @@
 
 
 <img align="left" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+<p  align="right">
+  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
+  </p>
 - 🔭 I’m currently studying on something cool : Ironhack ✨
 - 🌱 I’m currently learning react and node
 - 👯 I'm happy to collaborate on any web development
