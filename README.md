@@ -58,9 +58,9 @@
 
 **Web/Full Stack projects**
 
-[![My Website](https://img.shields.io/badge/-🐱&nbsp;&nbsp;CarePet&nbsp;web-000000?style=flat)](https://github.com/joselrdg/CarePet-web)
-[![My Website](https://img.shields.io/badge/-🌊&nbsp;&nbsp;Infect&nbsp;me-000000?style=flat)](https://github.com/joselrdg/Infect-me)
-[![My Website](https://img.shields.io/badge/-🩸&nbsp;&nbsp;Project&nbsp;game-000000?style=flat)](https://github.com/joselrdg/project-game)
+[![CarePet Web](https://img.shields.io/badge/-💉&nbsp;&nbsp;CarePet&nbsp;web-000000?style=flat)](https://github.com/joselrdg/CarePet-web)
+[![Infect Me](https://img.shields.io/badge/-🌊&nbsp;&nbsp;Infect&nbsp;me-000000?style=flat)](https://github.com/joselrdg/Infect-me)
+[![Project Game](https://img.shields.io/badge/-🩸&nbsp;&nbsp;Project&nbsp;game-000000?style=flat)](https://github.com/joselrdg/project-game)
 
 
 **Other projects**
