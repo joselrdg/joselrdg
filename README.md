@@ -21,12 +21,12 @@
 - 🔭 I’m currently studying on something cool : Ironhack ✨
 - 🌱 I’m currently learning react and node
 - 👯 I'm happy to collaborate on any web development
-- 🤔 I’m looking for help with ...
+<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Web dev related Stuff 😉
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/joseluis-rodriguez-gonz%C3%A1lez-5ba553205/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:josesietepicos@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- - 😄 Pronouns: ...  -->
+<!-- - ⚡ Fun fact: ... -->
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...*** <a href="https://stackshare.io/joselrdg/my-stack">
     <img src="https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="Jose_Rdg : StackShare" />
