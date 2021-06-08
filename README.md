@@ -45,7 +45,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![ReactNative](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![React-Native](https://img.shields.io/badge/-React-Native-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
