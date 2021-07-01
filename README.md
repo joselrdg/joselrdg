@@ -20,7 +20,7 @@
 <img align="left" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 - 🔭 I’m currently studying on something cool : Ironhack ✨
-- 🌱 I’m currently learning react and node
+- 🌱 I’m currently learning Vue.js and Three.js 
 - 👯 I'm happy to collaborate on any web development
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Web dev related Stuff 😉
