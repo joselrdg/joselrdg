@@ -56,9 +56,9 @@
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-<!-- ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS) -->
+<!-- ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS) 
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=npm)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=npm) -->
 
 
 **Web/Full Stack projects**
