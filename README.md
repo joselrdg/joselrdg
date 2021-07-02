@@ -48,7 +48,7 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=npm)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongo)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
@@ -57,6 +57,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 <!-- ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS) -->
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=npm)
 
 
 **Web/Full Stack projects**
